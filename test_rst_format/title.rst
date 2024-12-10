@@ -17,7 +17,7 @@
 ''''''''''''''''''''''''''''''
 
 
-.. code-block:: console
+.. code-block:: text
     1. First level title
     ====================
     
